@@ -21,7 +21,7 @@ from keep_alive import keep_alive
 from questions import QUESTIONS
 
 # --- SOZLAMALAR ---------------------------------------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN", "BU_YERGA_TOKEN_NI_QOYING")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8836382323:AAGEhh9Y_62008kz7_2GbWQKbuxLsXQu5p4")
 DB_PATH = "quiz.db"
 QUESTIONS_PER_ROUND = 10  # har bir o'yinda nechta savol berilsin
 
